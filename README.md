@@ -1,4 +1,4 @@
-### Olá, estou cursando Técnico Bilíngue em Desenvolvimento de Sistemas no Senac. Estou me aprimorando em HTML, CSS, JavaScript, Python e Java.
+### Olá, estou cursando Técnico Bilíngue em Desenvolvimento de Sistemas no Senac. Estou me aprimorando em HTML, CSS e JavaScript.
 
 <!--
 **jaohv/jaohv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
