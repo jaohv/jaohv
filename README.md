@@ -4,7 +4,7 @@
 - 🔭 I'm currently working [at Testing Company](https://testingcompany.com.br/)
 
 - 💬 Technologies I use in my routine **React, TypeScript, Node.js, Express, ChakraUI, Styled-Components**
-- 
+
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **joao.rmiranda@icloud.com**
