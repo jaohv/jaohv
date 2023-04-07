@@ -1,5 +1,5 @@
 <h1 align="center">Hey João Vitor Miranda</h1>
-<h3 align="center">I am a Web Developer passionate about technology and in constant search of knowledge.</h3>
+<h3 align="center">I am a Web Developer passionate about technology and in constant search of knowledge</h3>
 
 - 🔭 I'm currently working [at Testing Company](https://testingcompany.com.br/)
 
