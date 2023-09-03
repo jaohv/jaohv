@@ -1,6 +1,6 @@
 ### Hi, i'm João
 
-## I am a full stack web developer!
+## I am a Fullstack Web Developer!
 
 - 🌱  Improving at React | React Native | Node.js  
  
