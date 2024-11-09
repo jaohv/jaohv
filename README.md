@@ -1,5 +1,5 @@
 <h1 align="center">João Vitor Miranda</h1> 
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
