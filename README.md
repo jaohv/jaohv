@@ -6,6 +6,7 @@
   <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/></a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.php.net//images/logos/new-php-logo.svg" width="40" height="40"/></a>
   <h3 align="left">Studying:</h3>
   <a href="https://www.swift.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" height="40"/></a>
 </p>
