@@ -1,32 +1,15 @@
-<h1 align="center">João Vitor Miranda</h1> 
-<h3 align="center">Software Developer</h3>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://react.dev" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  </a>
+<p align="center">
+  <img src="./assets/header.svg" alt="João — AI Engineer" width="100%">
 </p>
 
-<h3 align="left">Studying:</h3>
-<p align="left">
-  <a href="https://www.swift.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
-  </a>
+LLM systems running inside real teams. 5 years shipping production software.
+
+<p align="center">
+  <img src="./assets/terminal.svg" alt="AI code review pipeline running" width="100%">
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  </a>
-</p>
+### Stack
+
+<img src="https://skillicons.dev/icons?i=php,laravel,ts,nodejs,react,mysql,supabase,docker&theme=dark" alt="PHP, Laravel, TypeScript, Node.js, React, MySQL, Supabase, Docker">
+
+Claude API · Claude Code · n8n · MCP
