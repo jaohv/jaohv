@@ -11,5 +11,3 @@ LLM systems running inside real teams. 5 years shipping production software.
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=php,laravel,ts,nodejs,react,mysql,supabase,docker&theme=dark" alt="PHP, Laravel, TypeScript, Node.js, React, MySQL, Supabase, Docker">
-
-Claude API · Claude Code · n8n · MCP
